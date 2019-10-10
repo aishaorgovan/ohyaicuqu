@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahjoeyieto.izzynavedo.com/sitemap.xml
